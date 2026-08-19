@@ -1,0 +1,17 @@
+# MCP server (local clone + venv)
+.mcp-server/
+
+# Compiled output
+*.pdf
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Typst cache
+.typst/

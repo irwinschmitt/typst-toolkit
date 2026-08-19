@@ -1,0 +1,32 @@
+# styles/default.yml — Default design tokens for typst-toolkit
+
+meta:
+  name: "Default Academic"
+  description: "Clean academic style suitable for conferences and institutions"
+
+colors:
+  primary: "#1a365d"
+  secondary: "#2c5282"
+  accent: "#ed8936"
+  background: "#ffffff"
+  surface: "#f7fafc"
+  text: "#1a202c"
+  text-light: "#4a5568"
+
+fonts:
+  title: "Liberation Sans"
+  body: "Liberation Sans"
+
+sizes:
+  title: "48pt"
+  subtitle: "32pt"
+  heading: "28pt"
+  body: "18pt"
+  caption: "14pt"
+
+spacing:
+  margin-x: "3cm"
+  margin-y: "3cm"
+  section-gap: "2cm"
+  paragraph-gap: "0.8cm"
+  column-gap: "1.5cm"

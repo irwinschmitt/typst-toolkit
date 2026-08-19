@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "typst-mcp": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory", ".mcp-server/typst-mcp",
+        "python", "server.py"
+      ],
+      "env": {
+        "TYPST_PATH": "typst"
+      }
+    }
+  }
+}
